@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/project/ece601/SincNet/speaker_id.py", line 68, in <module>
+    options=read_conf()
+  File "/project/ece601/SincNet/data_io.py", line 24, in read_conf
+    Config.read(cfg_file)
+  File "/share/pkg.7/python3/3.6.5/install/lib/python3.6/configparser.py", line 694, in read
+    for filename in filenames:
+TypeError: 'NoneType' object is not iterable

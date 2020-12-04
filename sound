@@ -1,0 +1,1545 @@
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+The following is a list of the modules currently available:
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+  2brad_denovo: 2brad_denovo/2019-01-22_giteec5016
+
+  2brad_gatk: 2brad_gatk/2019-01-22_git1fcc9e8
+
+  3d-ice: 3d-ice/2.2.6
+
+  R: R/3.0.0, R/3.5.1, R/3.6.0_intel-2018, R/3.6.0, R/3.6.1_intel-2019, R/3.6.2, R/4.0.0, R/4.0.2
+
+  admixture: admixture/1.3.0
+
+  afni: afni/17.0.18-omp, afni/19.1.00-omp, afni/19.1.00, afni/2011-12-21.1014-xorg, afni/2011-12-21.1014
+
+  amber: amber/16
+
+  amgx: amgx/2019-12-13_gitb3101ff
+    AmgX is a GPU accelerated core solver library that speeds up computationally intense linear solver portion of simulations.
+
+  anaconda2: anaconda2/5.2.0
+
+  anaconda3: anaconda3/5.2.0
+
+  angsd: angsd/0.923
+
+  annovar: annovar/2018apr, annovar/2019oct24
+
+  ants: ants/1.9, ants/1.9.2, ants/2.1.0, ants/2.2.0, ants/2.3.1
+
+  anvio: anvio/6.1
+    Anvio is an open-source, community-driven analysis and visualization platform for microbial omics.
+
+  apbs: apbs/1.5
+
+  apex: apex/0.1
+    This repository holds NVIDIA-maintained utilities to streamline mixed precision and distributed training in Pytorch.
+
+  aracne-ap: aracne-ap/2018_github30967ea
+    Network Reverse Engineering through AP inference of Mutual Information
+
+  aria2: aria2/1.34.0
+
+  armadillo: armadillo/9.200.5
+
+  arpack-ng: arpack-ng/3.7.0
+
+  arrow_cpp: arrow_cpp/0.17.0
+    Apache Arrow is a cross-language development platform for in-memory data.
+
+  artemis: artemis/18.0.3
+    a free genome viewer and annotation tool that allows visualization of sequence features and the results of analyses within the context of the
+    sequence, and its six-frame translation
+
+  ase: ase/3.17.0, ase/3.18.1, ase/3.20.1
+
+  ashs: ashs/2017-02-23
+
+  aspera-cli: aspera-cli/3.9.6
+    IBM Aspera Command-Line Interface for data transfer
+
+  astra: astra/1.8
+
+  atom: atom/1.33.1
+
+  augustus: augustus/3.3.2
+
+  automake: automake/1.16
+
+  awscli: awscli/1.16.77, awscli/2.0.4
+
+  bagel: bagel/1.2.2_mvapich, bagel/1.2.2_8.3, bagel/1.2.2
+    BAGEL, Brilliantly Advanced General Electronic-structure Library.
+
+  bamtools: bamtools/2.5.1
+
+  bamutil: bamutil/1.0.14
+
+  basemount: basemount/0.15.103.3011
+
+  basespace-cli: basespace-cli/0.8.12.590, basespace-cli/0.10.8, basespace-cli/1.2.0
+    Command line interface for Illumina BaseSpace Sequence Hub.
+
+  basilisk: basilisk/2020-04-28
+    free software program for the solution of partial differential equations on adaptive Cartesian meshes.
+
+  bayescan: bayescan/2.1
+
+  bazel: bazel/0.21.0, bazel/0.25.0, bazel/0.26.1, bazel/0.27.1, bazel/0.29.1, bazel/2.0.0, bazel/2.2.0
+
+  bbmap: bbmap/38.16
+
+  bcbio: bcbio/1.1.1
+
+  bcftools: bcftools/1.8, bcftools/1.9, bcftools/1.10.2, bcftools/2019-08-30_git63f4b93
+    a program for variant calling and manipulating files in the VCF/BCF format
+
+  bcl2fastq: bcl2fastq/2.20
+
+  beagle: beagle/5.1
+    Package for genotype calling, genotype phasing, imputation of ungenotyped markers, and identity-by-descent segment detection.
+
+  bedops: bedops/2.4.35
+
+  bedtobigbed: bedtobigbed/2.6
+
+  bedtools: bedtools/2.27.1
+
+  berkeleydb: berkeleydb/18.1.32
+    open source embeddable databases provided by Oracle
+
+  berkeleygw: berkeleygw/2.1
+    The BerkeleyGW package is a set of computer codes that calculates the quasiparticle properties and the optical responses of a large variety of
+    materials from bulk periodic crystals to nanostructures such as slabs, wires and molecules.
+
+  bfast: bfast/0.7.0a
+
+  bgionline: bgionline/3.0.0.1
+
+  bgw: bgw/2.0.0_intel-2018
+
+  bioperl: bioperl/1.7.2
+
+  bismark: bismark/0.20.1
+
+  blasr: blasr/5.3.2
+
+  blast: blast/2.2.26
+
+  blast+: blast+/2.7.1
+
+  blat: blat/36x2
+
+  blis: blis/0.6.0, blis/0.6.1, blis/0.7.0
+    BLIS is a high-performance open source implementation of a BLAS-like dense linear algebra library. It includes a BLAS compatibility layer.
+
+  boost: boost/1.57, boost/1.66.0_gcc5+, boost/1.69.0
+    peer-reviewed portable C++ source libraries
+
+  bowtie: bowtie/1.2.2
+
+  bowtie2: bowtie2/2.3.4.1
+
+  busco: busco/3.0.2
+
+  bwa: bwa/0.7.12, bwa/0.7.15, bwa/0.7.17
+
+  caiman: caiman/1.8.1
+    Computational toolbox for large scale Calcium Imaging Analysis, including movie handling, motion correction, source extraction, spike
+    deconvolution and result visualization.
+
+  cairo: cairo/1.16.0
+
+  cas-offinder: cas-offinder/2.4
+    An OpenCL based, ultrafast and versatile program that searches for potential off-target sites of CRISPR/Cas-derived RNA-guided endonucleases
+    (RGEN).
+
+  casa: casa/5.3.0
+
+  cdeep3m: cdeep3m/1.6.3
+    Plug-and-play deep learning for image segmentation of light, electron, and X-ray microscopy.
+
+  cdhit: cdhit/4.6.8
+
+  cellgpu: cellgpu/0.8
+
+  cellranger: cellranger/3.0.1, cellranger/3.0.2, cellranger/3.1.0, cellranger/4.0.0
+
+  cfitsio: cfitsio/3.48, cfitsio/3.450
+
+  cgal: cgal/4.9.1, cgal/4.14.1
+    Open source geographic information system
+
+  cgdb: cgdb/v0.7.0
+
+  charmm: charmm/32b1, charmm/41.0
+    A molecular simulation program with broad application to many-particle systems.
+
+  chaste: chaste/2018.1
+
+  chimera: chimera/1.13.1
+
+  chronux: chronux/2.12v03
+
+  circexplorer2: circexplorer2/2.3.6
+
+  circos: circos/0.67-7
+
+  clam: clam/1.1.3, clam/1.2
+
+  clark: clark/1.2.6.1
+
+  clhep: clhep/2.4.1.3
+    CLHEP is intended to be a set of HEP-specific foundation and utility classes such as random generators, physics vectors, geometry and linear
+    algebra.
+
+  clustalomega: clustalomega/1.2.1
+
+  cmake: cmake/3.10.0, cmake/3.12.0, cmake/3.14.5
+
+  cnmf-e: cnmf-e/1.1.2
+    Constrained Nonnegative Matrix Factorization for microEndoscopic data. 'E' also suggests 'extension'. It is built on top of CNMF with supports
+    to 1 photon data.
+
+  cnvnator: cnvnator/0.4
+
+  cobratoolbox: cobratoolbox/809fa7367e
+
+  comb-p: comb-p/0.50.2, comb-p/2020-07-22_gite7e3185
+    A library to combine, analyze, group and correct p-values in BED files. Unique tools involve correction for spatial autocorrelation. This is
+    useful for ChIP-Seq probes and Tiling arrays, or any data with spatial correlation.
+
+  composer: composer/1.8.4
+
+  conn: conn/17.f, conn/18.b
+
+  connectomewb: connectomewb/1.0, connectomewb/1.2.3, connectomewb/1.3.2, connectomewb/1.4.2
+
+  controlfreec: controlfreec/11.0
+
+  convert3d: convert3d/1.0.0
+
+  cplex: cplex/12.7.1, cplex/12.8_ac
+
+  cromwell: cromwell/41, cromwell/53.1
+
+  csds: csds/2019.2
+
+  csvtk: csvtk/0.20.0
+    A cross-platform, efficient and practical CSV/TSV toolkit
+
+  ctffind4: ctffind4/4.1.13
+
+  cuda: cuda/7.5.18, cuda/8.0, cuda/9.0, cuda/9.2, cuda/10.0, cuda/10.1, cuda/10.2
+    A parallel computing platform and application programming interface, cuDNN verision 7.5.0 is included in this module.
+
+  cufflinks: cufflinks/2.2.1
+
+  cutadapt: cutadapt/1.18
+
+  cvxpy: cvxpy/1.0.25
+    CVXPY is a Python-embedded modeling language for convex optimization problems.
+
+  cytoscape: cytoscape/3.5.1, cytoscape/3.8.0
+
+  darknet: darknet/436
+
+  dbeaver: dbeaver/6.1.0
+    Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.
+
+  dcm2niix: dcm2niix/v1.0.20190902
+
+  dcmtk: dcmtk/3.6.4
+
+  ddd: ddd/3.3.12
+
+  ddocent: ddocent/2.7.8
+
+  deeplabcut: deeplabcut/2.1.4, deeplabcut/2.1.8.2_py3, deeplabcut/2.1.8.2
+
+  deeptools: deeptools/3.1.3
+
+  deepvariant: deepvariant/0.8
+
+  delft3d: delft3d/7545
+
+  delly: delly/0.7.9
+
+  denovogear: denovogear/1.1.1
+
+  desmond: desmond/2019.2
+
+  dfam-tetools: dfam-tetools/1.1
+    Dfam TE Tools includes RepeatMasker, RepeatModeler, and coseg. This container is an easy way to get a minimal yet fully functional installation
+    of RepeatMasker and RepeatModeler and is additionally useful for testing or reproducibility purposes
+
+  dftbplus: dftbplus/17.1
+
+  diamond: diamond/0.9.24, diamond/0.9.32
+
+  diffreps: diffreps/1.55.6
+
+  dirac: dirac/18.0
+    DIRAC: Program for Atomic and Molecular Direct Iterative Relativistic All-electron Calculations.
+
+  dnanexus-dx: dnanexus-dx/0.269.2
+
+  dnanexus-ua: dnanexus-ua/1.5.25, dnanexus-ua/1.5.30
+
+  dosageconverter: dosageconverter/1.0.4
+
+  dotnet: dotnet/2.2.101, dotnet/3.1.402
+
+  drive: drive/0.3.9
+
+  ds9: ds9/7.6
+
+  dsi_studio: dsi_studio/1.0.1rc
+
+  dssp: dssp/2.2.1
+
+  dtc: dtc/1.5.1
+
+  dtiprep: dtiprep/1.2.8
+
+  duphold: duphold/0.1.4, duphold/0.2.1
+
+  dynare: dynare/4.4.3, dynare/4.5.6
+
+  ea-utils: ea-utils/1.04.807
+
+  eagle: eagle/2.4
+
+  eccodes: eccodes/2.12.0
+    ecCodes provides an application programming interface and a set of tools for decoding and encoding messages in WMO FM-92 GRIB edition 1 and
+    edition 2, WMO FM-94 BUFR edition 3 and edition 4, and WMO GTS abbreviated header (only decoding).
+
+  eclipse: eclipse/neon, eclipse/2019-06
+    IDE for Java, C, C++, Fortran, MPI, and OpenMP.
+
+  ecw: ecw/5.4.0, ecw/5.5.0.1640
+
+  eems: eems/2020-01-27_git42bc6c7
+    method for analyzing and visualizing spatial population structure from geo-referenced genetic samples.
+
+  eigen: eigen/3.3.5
+
+  eigensoft: eigensoft/7.2.1
+
+  elpa: elpa/2018.11.001_intel-2018
+
+  emacs: emacs/26.3
+
+  eman2: eman2/2.3
+
+  emboss: emboss/6.6.0
+
+  emmax: emmax/2012-02-10
+
+  energyplus: energyplus/8.9.0
+
+  entrez-direct: entrez-direct/10.6.20181210
+
+  envi: envi/5.5.1, envi/5.5.2
+
+  epacts: epacts/3.3.0, epacts/3.3.2, epacts/3.4.2-pr, epacts/2020-01-21_gitfc9c3a4
+    Effcient and Parallelizable Association Container Toolbox
+
+  epsilon: epsilon/0.9.2
+
+  epstopdf: epstopdf/2.28
+
+  esa-snap: esa-snap/7.0.0
+
+  espa-l2qa-tools: espa-l2qa-tools/1.7.1
+
+  espa-product-formatter: espa-product-formatter/1.16.0
+
+  esri-filegdb-gdal: esri-filegdb-gdal/2.3.2
+    Basic GDAL package with ESRI FileGDB option enabled for reading compressed ESRI Geodatabase files.
+
+  exiv2: exiv2/0.27.3
+    Exiv2 is a Cross-platform C++ library and a command line utility to manage image metadata.
+
+  exonerate: exonerate/2.2.0
+
+  expat: expat/2.2.6
+
+  fastme: fastme/2.1.6.1
+
+  fastortho: fastortho/2019_git80c4fa1
+
+  fastp: fastp/0.20.0
+
+  fastq_screen: fastq_screen/0.14.0
+
+  fastqc: fastqc/0.11.7
+
+  fastqtl: fastqtl/2.184
+    a QTL mapper with several notable features
+
+  faststructure: faststructure/1.0
+    A variational framework for inferring population structure from SNP genotype data.
+
+  fasttree: fasttree/2.1.11
+
+  fastx-toolkit: fastx-toolkit/0.0.14
+
+  fenics: fenics/2019.1.0-PETSc, fenics/2019.1.0
+
+  ffmpeg: ffmpeg/3.3, ffmpeg/4.0.3, ffmpeg/4.2.1
+
+  fftw: fftw/2.1.5_intel-2018_openmpi-3.1.1, fftw/3.3.4, fftw/3.3.8
+
+  fhs: fhs/latest
+
+  fhspl: fhspl/0.2.3a, fhspl/0.3.05, fhspl/0.3.08
+
+  fiji: fiji/dc, fiji/2015-12-22, fiji/2019-10-01, fiji/2020-09-22
+
+  filezilla: filezilla/3.48.0
+    FileZilla is a free software, cross-platform FTP application.
+
+  fineradstructure: fineradstructure/2019-02-11_gitd8fb782
+
+  firedrake: firedrake/1-7-2020
+    Firedrake is an automated system for the portable solution of partial differential equations using the finite element method (FEM)
+
+  firefly: firefly/8.2.0
+
+  firefox: firefox/60.1.0
+
+  fix: fix/1.06.15, fix/1.066
+    FMRIB's ICA-based Xnoiseifier
+
+  fltk: fltk/1.3.4-2
+
+  fmriprep: fmriprep/v1.1.2, fmriprep/v1.4.1
+
+  fmristat: fmristat/28
+
+  foam-extend: foam-extend/4.1
+    The foam-extend release is the community edition of the open source CFD software OpenFOAM(R. Many people have contributed models and solvers,
+    helped finding bugs and extended the code base.
+
+  forestpmplot: forestpmplot/1.0.1
+    open-source a python-interfaced R package tool for analyzing the heterogeneous studies in meta-analysis by visualizing the effect size
+    differences between studies
+
+  fpocket: fpocket/3.0.4
+
+  freesurfer: freesurfer/5.3.0-hcp, freesurfer/5.3.0, freesurfer/6.0, freesurfer/7.1.0, freesurfer/2019-08-12_dev, freesurfer/2020-05-18_dev
+    An open source software suite for processing and analyzing (human) brain MRI images.
+
+  freetype: freetype/2.9.1
+
+  freexl: freexl/1.0.5
+
+  fsl: fsl/5.0, fsl/5.0.9, fsl/5.0.10-patched, fsl/5.0.10, fsl/5.0.11, fsl/6.0, fsl/6.0.1, fsl/6.0.2
+
+  ftgl: ftgl/2018-02-15
+
+  galamost: galamost/18Mar2019
+    GALAMOST is a GPU-accelerated molecular dynamics code designed for high-performance simulation of large soft matter systems.
+
+  gamess: gamess/2018-09-30-r3, gamess/2019-09-30-r2
+
+  gams: gams/27.2.0
+
+  gap: gap/4.11.0
+    a system for computational discrete algebra, with particular emphasis on Computational Group Theory
+
+  gate: gate/8.6.1
+    a full-lifecycle open source solution for text processing
+
+  gatk: gatk/3.8-1, gatk/4.0.11.0, gatk/4.0.12.0, gatk/4.1.2.0, gatk/4.1.3.0, gatk/4.1.4.1, gatk/4.1.7.0
+
+  gauss: gauss/13.1.1
+    Aptech Systems Data Analytics Platform
+
+  gaussian: gaussian/0.9D, gaussian/16.A.03, gaussian/16.B.01
+
+  gcam: gcam/5.1.3
+    GCAM in an integrated assessment tool for exploring consequences and responses to global change.
+
+  gcc: gcc/5.5.0, gcc/7.4.0, gcc/8.1.0, gcc/8.3.0, gcc/9.3.0
+
+  gcta: gcta/1.26.0
+
+  gdal: gdal/2.3.2, gdal/3.1.2
+
+  gdspy: gdspy/1.4
+    Gdspy is a Python module for creating/importing/merging GDSII stream files.
+
+  geant4: geant4/10.6.2
+    Geant4 is a toolkit for the simulation of the passage of particles through matter.
+
+  gem5: gem5/19.0.0.0
+    The gem5 simulator is a modular platform for computer-system architecture research, encompassing system-level architecture as well as processor
+    microarchitecture.
+
+  genesis: genesis/2.4
+    GENESIS is a general purpose simulation platform which was developed to support the simulation of neural systems ranging from complex models of
+    single neurons to simulations of large networks made up of more abstract neuronal components.
+
+  genometools: genometools/1.5.9
+    The GenomeTools genome analysis system is a free collection of bioinformatics tools
+
+  genowap: genowap/1.0.1
+
+  geopandas: geopandas/0.4.0
+
+  geos: geos/3.7.0, geos/3.8.1
+
+  gifsicle: gifsicle/1.92
+    Gifsicle manipulates GIF image files.
+
+  gigi: gigi/1.06.1
+
+  git: git/2.18.0
+
+  gitkraken: gitkraken/5.0.2, gitkraken/6.0.1
+    Github GUI to make you a more productive Git user.
+
+  glib: glib/2.46.2
+
+  glow: glow/0.5.0
+    a software tool that bridges bridging bioinformatics and the big data ecosystem.
+
+  gmap-gsnap: gmap-gsnap/2019-09-12
+
+  gmsh: gmsh/4.0.7, gmsh/4.6.0
+
+  gmt: gmt/5.4.5
+
+  gnuplot: gnuplot/5.0.3, gnuplot/5.2.7
+
+  go: go/1.10.3, go/1.12.7
+
+  google-cloud-sdk: google-cloud-sdk/273.0.0
+
+  gpaw: gpaw/1.5.1, gpaw/1.5.2, gpaw/19.8.1, gpaw/20.1.0
+
+  grace: grace/5.1.25
+    Grace is a WYSIWYG 2D plotting tool for the X Window System and Mtif.
+
+  gradunwarp: gradunwarp/1.1.0-hcp
+    gradunwarp is a Python/Numpy package used to unwarp the distorted volumes (due to the gradient field inhomogenities). Currently, it can unwarp
+    Siemens data.
+
+  grass: grass/7.4.3, grass/7.8.3
+
+  grobid: grobid/0.5.6
+    GROBID is a machine learning library for extracting, parsing and re-structuring raw documents such as PDF into structured XML/TEI encoded
+    documents with a particular focus on technical and scientific publications.
+
+  gromacs: gromacs/2016.3, gromacs/2018.3, gromacs/2019.1_openmpi_3.1.4, gromacs/2019.1, gromacs/2020.1
+    GROMACS is a versatile package to perform molecular dynamics.
+
+  gsl: gsl/2.5
+
+  gsort: gsort/0.1.0
+
+  gst-libav: gst-libav/1.0.6
+
+  gstreamer: gstreamer/0.10.36
+
+  gsutil: gsutil/4.35, gsutil/4.46
+
+  gtk-doc: gtk-doc/1.3, gtk-doc/1.29
+
+  gtool: gtool/0.7.5
+
+  gurobi: gurobi/8.0.0, gurobi/9.0.0
+
+  gv: gv/3.5.8
+
+  h5utils: h5utils/1.12.1, h5utils/1.13.1
+
+  hail: hail/0.2.19, hail/0.2.33, hail/0.2.46, hail/0.2.57
+
+  haplogrep: haplogrep/2.1.13
+
+  haskell: haskell/8.6.3
+
+  hcppipelines: hcppipelines/4.1.3
+    This release is the version used for HCP Development and HCP Aging data functional preprocessing.
+
+  hdf: hdf/4.2.14_intel-2018_no-netcdf, hdf/4.2.14_intel-2019_no-netcdf, hdf/4.2.14_no_netcdf, hdf/4.2.15_no_netcdf
+
+  hdf5: hdf5/1.6.10, hdf5/1.8.21, hdf5/1.10.4_intel-2018, hdf5/1.10.4, hdf5/1.10.5_intel-2018, hdf5/1.10.5_intel-2019, hdf5/1.12.0
+
+  hdfeos2: hdfeos2/20v1.00
+
+  hdfeos5: hdfeos5/1.16
+
+  hdfview: hdfview/3.1.1
+    A visual tool for browsing and editing HDF4 and HDF5 files.
+
+  hicexplorer: hicexplorer/2.1.4
+
+  hisat2: hisat2/2.1.0
+
+  hmmer: hmmer/3.2.1
+
+  homer: homer/4.10
+
+  hoomd: hoomd/2.4.1
+
+  htop: htop/2.0.2, htop/3.0.2
+
+  htseq: htseq/0.11.0
+
+  htslib: htslib/1.8, htslib/1.9
+
+  ica-aroma: ica-aroma/0.4.4-beta
+
+  icy: icy/2.0.3.0
+    Providing software resources to visualize, annotate and quantify bioimaging data
+
+  idl: idl/8.6.0, idl/8.7.1, idl/8.7.2
+
+  igraph: igraph/0.8.0
+    igraph is a library collection for creating and manipulating graphs and analyzing networks. This module contains the C library and the Python
+    3.x interface.
+
+  igv: igv/2.4.16
+
+  ilastik: ilastik/1.3.3
+    ilastik is a simple, user-friendly tool for interactive image classification, segmentation and analysis.
+
+  imagemagick: imagemagick/7.0.3-5, imagemagick/7.0.9-8
+
+  impute: impute/2.3.2, impute/4.r265
+
+  instagram-api: instagram-api/5.0.0
+
+  intel: intel/2015, intel/2016, intel/2016.5, intel/2018, intel/2019, intel/2019.5
+
+  inteladvisor: inteladvisor/2019.5
+    The community version of the Intel Advisor, a tool for analyzing code performance.
+
+  itk: itk/4.11.0
+
+  itk-snap: itk-snap/3.2.0
+
+  jags: jags/4.3.0_gcc_8, jags/4.3.0
+
+  jasper: jasper/2.0.14
+
+  java: java/1.8.0_181, java/10.0.2, java/11.0.4, java/12.0.1
+
+  jax: jax/0.1.49
+
+  jbig: jbig/2.1
+
+  jellyfish: jellyfish/2.2.10
+
+  jpeg: jpeg/9b
+
+  jq: jq/1.5, jq/1.6, jq/2019-03-20_git3ea0199
+
+  json-c: json-c/0.13.1
+
+  jsoncpp: jsoncpp/1.8.4
+
+  julia: julia/0.7.0, julia/1.0.2, julia/1.3.0, julia/1.4.2, julia/1.5.0
+
+  kallisto: kallisto/0.43.0
+
+  klayout: klayout/0.25.7, klayout/0.26.8
+
+  knime: knime/3.7.0
+
+  komics: komics/2020-04-16_git82df818
+    https://github.com/FreBio/komics
+
+  lammps: lammps/3Mar2020, lammps/5Jun2019_intel-2019, lammps/12Dec2018_intel-2019, lammps/12Dec2018
+
+  lapack: lapack/3.8.0
+
+  lasrc: lasrc/1.4.1
+
+  lassosum: lassosum/0.4.3
+
+  laszip: laszip/3.4.3
+    LASzip - a free open source product of rapidlasso GmbH - quickly turns bulky LAS files into compact LAZ files without information loss.
+
+  ldope: ldope/1.7
+
+  ldpred: ldpred/0.9.09, ldpred/1.0.6-py2, ldpred/1.0.6, ldpred/1.0.10, ldpred/1.0.11
+
+  ldpred-funct: ldpred-funct/2019-03-21_git39e59ea
+
+  ldsc: ldsc/ldsc13, ldsc/1.0.1_git12e2687, ldsc/2018-08-10
+
+  ledaps: ledaps/3.3.0, ledaps/2012-09-25
+
+  lemon: lemon/1.3.1
+    It is a C++ template library providing efficient implementations of common data structures and algorithms with focus on combinatorial
+    optimization tasks connected mainly with graphs and networks.
+
+  libbigwig: libbigwig/0.4.2
+
+  libcurl: libcurl/7.62.0
+
+  libdap: libdap/3.18.1
+
+  libdc1394: libdc1394/2.2.0, libdc1394/2.2.6
+    This library provides functionality to control any camera that conforms to the
+
+  libgeotiff: libgeotiff/1.4.2, libgeotiff/1.6.0
+
+  libgta: libgta/1.0.9, libgta/1.2.1
+
+  libjpeg-turbo: libjpeg-turbo/2.0.4
+    A JPEG library that is 2-6x faster than libjpeg.
+
+  libkml: libkml/1.3
+
+  liblas: liblas/1.8.1
+    A C/C++ library for reading and writing the very common LAS LiDAR format.
+
+  liblbfgs: liblbfgs/1.10
+
+  libreoffice: libreoffice/6.1.3.2
+
+  libsodium: libsodium/1.0.18
+    Sodium is a modern, easy-to-use software library for encryption, decryption, signatures, password hashing and more.
+
+  libspatialindex: libspatialindex/1.8.5, libspatialindex/1.9.3
+
+  libspatialite: libspatialite/4.3.0a
+
+  libsupermesh: libsupermesh/1.0.1
+    parallel supermeshing library
+
+  libxc: libxc/4.2.3
+
+  libxml2: libxml2/2.9.8
+
+  liftover: liftover/2018-12-05
+
+  llvm: llvm/3.9.1, llvm/6.0.1, llvm/7.0.1, llvm/9.0.1
+    The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. This provides compilers for C (clang) and C++
+    (clang++).
+
+  lmdb: lmdb/0.9.22
+
+  locuszoom: locuszoom/1.4
+
+  ltr_retriever: ltr_retriever/2.8
+    LTR_retriever is a command line program (in Perl) for accurate identification of LTR retrotransposons
+
+  lumpy-sv: lumpy-sv/0.3.0
+
+  macaulay2: macaulay2/1.14.0.1
+    Macaulay2 is a system for computing in commutative algebra, algebraic geometry and related fields.
+
+  macs2: macs2/2.1.2.1
+
+  mafft: mafft/7.305
+
+  magma-bio: magma-bio/1.07b
+    a tool for gene analysis and generalized gene-set analysis of GWAS data
+
+  magma_usyd: magma_usyd/v2.23-11
+
+  make: make/4.3
+    GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files.
+
+  mango: mango/v4.1
+
+  maple: maple/16.0, maple/2018
+    symbolic and numeric computing environment, and is also a multi-paradigm programming language.
+
+  marsbar: marsbar/0.44
+
+  mathematica: mathematica/9.0, mathematica/10.4.1, mathematica/11.3.0, mathematica/12.0.0
+
+  matio: matio/1.5.15
+
+  matlab: matlab/2011b, matlab/2013a, matlab/2013b, matlab/2014a, matlab/2014b, matlab/2016a, matlab/2017a, matlab/2017b, matlab/2018a, matlab/2018b, ...
+
+  maven: maven/3.6.0
+
+  mawk: mawk/1.3.4
+
+  maxquant: maxquant/1.6.14, maxquant/1.6.17.0
+    MaxQuant is a proteomics software package designed for analyzing large mass-spectrometric data sets.
+
+  mcr: mcr/7.16_2011b, mcr/8.3_2014a, mcr/8.4_2014b, mcr/9.0.1_2016a, mcr/9.3_2017b, mcr/9.5_2018b, mcr/9.8_2020a
+
+  mct: mct/2.6.0
+
+  mcx: mcx/2019.4, mcx/5905e0b
+
+  mdanalysis: mdanalysis/0.18.0
+
+  melt: melt/2.1.5
+
+  meme: meme/5.0.3
+
+  memeris: memeris/3.5.1
+
+  memkind: memkind/1.6.0
+
+  mercurial: mercurial/5.1.1
+
+  meshclust: meshclust/1.0.0
+
+  meshclust2: meshclust2/2.1.0
+
+  metal: metal/2010-02-08, metal/2011-03-25, metal/2020-10-06_gite2253cc
+
+  metalge: metalge/2010-02-08
+
+  metasoft: metasoft/2.0.1
+    an open source tool for genome-wide association study analysis, designed to perform a range of basic and advanced meta-analytic methods in an
+    efficient manner.
+
+  metis: metis/5.1.0
+    Serial Graph Partitioning and Fill-reducing Matrix Ordering
+
+  mii: mii/2019-07-25_git5e785e6
+    A smart search engine for module environments.
+
+  mindboggle: mindboggle/1.3.5
+
+  miniconda: miniconda/4.5.12, miniconda/4.7.5
+
+  minimac2: minimac2/2014-09-15
+
+  minimac3: minimac3/2.0.1
+
+  minimac4: minimac4/1.0.0, minimac4/1.0.2
+
+  minimap2: minimap2/2.17
+    a versatile sequence alignment program that aligns DNA or mRNA sequences against a large reference database.
+
+  minizip: minizip/2.10.0
+    minizip is a zip manipulation library written in C that is supported on Windows, macOS, and Linux.
+
+  mir: mir/170227
+
+  mirdeep2: mirdeep2/0.1.0
+
+  miriad: miriad/2014.7
+
+  mixcr: mixcr/3.0.3
+
+  mmap: mmap/2018-04-07
+
+  mne: mne/2.7.3
+
+  mono: mono/5.0.1, mono/5.18.0.225, mono/6.10.0
+
+  morgan: morgan/3.2, morgan/3.4
+
+  mosdepth: mosdepth/0.2.6
+
+  mothur: mothur/1.35.0
+
+  motioncor2: motioncor2/1.3.0
+    MotionCor2 is a multi-GPU program that corrects beam-induced sample motion recordedon dose fractionated movie stacks.
+
+  mpb: mpb/1.5_intel-2018
+
+  mpc: mpc/1.1.0
+    GNU MPC is a C library for the arithmetic of complex numbers with arbitrarily high precision and correct rounding of the result.
+
+  mpfr: mpfr/4.0.1
+
+  mr-mega: mr-mega/0.1.5
+    a tool to detect and fine-map complex trait association signals via trans-ethnic meta-regression
+
+  mrbayes: mrbayes/3.2.7
+
+  mricrogl: mricrogl/2017-07-14
+
+  mricron: mricron/2013-6
+
+  mriqc: mriqc/0.10.2, mriqc/0.15.0
+
+  mrsid: mrsid/9.5
+    Extensis offers a range of MrSID Software Kits (SDKs) and development tools for integrating decode (viewing) capabilities and encoding
+    technologies.
+
+  mrsid_dsdk: mrsid_dsdk/9.1.0.4045
+
+  mrtool: mrtool/v1.4.3
+
+  mrtrix: mrtrix/3.0
+    MRtrix provides a large suite of tools for image processing, analysis and visualisation, with a focus on the analysis of white matter using
+    diffusion-weighted MRI Features.
+
+  msm_hocr: msm_hocr/3.0-hcp
+    Multimodal Surface Matching with Higher order Clique Reduction.
+
+  multiqc: multiqc/1.6
+
+  mummer: mummer/3.23
+
+  mumps: mumps/5.2.1.2
+    A parallel sparse direct solver.
+
+  muscle: muscle/3.8.31
+
+  mutserve: mutserve/1.2
+
+  mvapich: mvapich/2.3.3
+    The MVAPICH2 software, based on MPI 3.1 standard, delivers the best performance, scalability and fault tolerance for high-end computing systems
+    and servers using InfiniBand, Omni-Path, Ethernet/iWARP, and RoCE networking technologies.
+
+  namd: namd/2.13_intel_openmpi, namd/2.13_mc_cuda, namd/2.13_openmpi, namd/2.13
+    a parallel molecular dynamics code
+
+  ncftp: ncftp/3.2.5
+
+  ncl: ncl/6.5.0
+
+  nco: nco/4.7.8
+
+  ncview: ncview/2.1.4, ncview/2.1.7
+
+  neo4j: neo4j/4.0.8
+    Neo4j Community Edition - Graph Database
+
+  neovim: neovim/0.3.2
+
+  nest: nest/2.20.0
+    NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the
+    exact morphology of individual neurons.
+
+  netbeans: netbeans/8.2
+
+  netcdf: netcdf/4.6.1_intel-2018, netcdf/4.6.1_intel-2019, netcdf/4.6.1, netcdf/4.7.4
+
+  netcdf-cxx: netcdf-cxx/4.2
+
+  netcdf-fortran: netcdf-fortran/4.4.4_gnu-8.1.0, netcdf-fortran/4.4.4_intel-2018, netcdf-fortran/4.4.4_intel-2019, netcdf-fortran/4.4.4
+
+  netket: netket/1.0.4
+
+  neuron: neuron/7.3, neuron/7.6.7
+
+  new_fugue: new_fugue/2010-06-02
+
+  newpkg: newpkg/0.1.2, newpkg/0.1.3, newpkg/0.1.4
+
+  nextflow: nextflow/18.10.1, nextflow/19.10.0
+
+  nextstrain: nextstrain/1.16.2
+    Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data.
+
+  ngsadmix: ngsadmix/32
+
+  ngsld: ngsld/2019-01-22_git5708758
+
+  ngspice: ngspice/3.1, ngspice/3.2
+    ngspice is the open source spice simulator for electric and electronic circuits.
+
+  ngspopgen: ngspopgen/2019-01-22_git9ee3a6d
+
+  ngsrelate: ngsrelate/1.0, ngsrelate/2_git71e2e61
+
+  nibetaseries: nibetaseries/v0.4.0
+
+  ninja: ninja/1.8.2
+
+  nodejs: nodejs/8.2.1, nodejs/12.16.1
+    node.js a javascript interpreter
+
+  novoalign: novoalign/3.02.07
+
+  npm: npm/6.9.0
+
+  nwchem: nwchem/6.8.1
+
+  oases: oases/0.2.09, oases/0.2.09-149.omp.l.b
+
+  ocaml: ocaml/4.02.2
+
+  octave: octave/4.4.1
+
+  oncotator: oncotator/1.9.8.0, oncotator/1.9.9.0
+
+  onetool: onetool/2.0
+
+  oniguruma: oniguruma/6.9.1
+
+  openbabel: openbabel/2.4.1
+
+  openblas: openblas/0.2.20, openblas/0.3.7
+
+  openbugs: openbugs/3.2.3
+
+  opencascade: opencascade/7.4.0
+    Open CASCADE Technology is a software development kit (SDK) intended for development of applications dealing with 3D CAD data, freely available
+    in open source.
+
+  opencv: opencv/3.2.0, opencv/4.0.1
+
+  openfoam: openfoam/6.0
+
+  opengl_glew: opengl_glew/1.13.0, opengl_glew/2.1.0
+
+  opengl_mathematics: opengl_mathematics/0.9.9.3
+
+  openjdk: openjdk/11.0.2
+
+  openjpeg: openjpeg/2.1.2
+
+  openmm: openmm/7.2.2, openmm/7.3.1, openmm/7.4.1
+
+  openmpi: openmpi/2.0.2, openmpi/3.1.1_intel-2018, openmpi/3.1.1, openmpi/3.1.4_gnu-7.4.0, openmpi/3.1.4_gnu-8.1, openmpi/3.1.4_intel-2019, ...
+
+  openscenegraph: openscenegraph/3.2.1, openscenegraph/3.6.3
+
+  openslide: openslide/3.4.1
+
+  openspeedshop: openspeedshop/2.2.3
+
+  opera: opera/12.16-1860
+
+  orange3: orange3/3.24.1
+    Open source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox.
+
+  orca: orca/4.0.1
+
+  orfeo_toolbox: orfeo_toolbox/6.6.1, orfeo_toolbox/7.0.0
+
+  ossim: ossim/2018-12-11
+
+  p4vasp: p4vasp/0.3.30
+
+  paintor: paintor/3.1
+
+  palm: palm/2019-02-13
+
+  paml: paml/4.9i
+
+  pandoc: pandoc/2.2.1, pandoc/2.5
+
+  panoply: panoply/4.11.6
+    Panoply plots geo-referenced and other arrays from netCDF, HDF, GRIB, and other datasets.
+
+  papi: papi/2018-01
+
+  paragraph: paragraph/2.4a
+    a suite of graph-based genotyping tools
+
+  parallel: parallel/2019-02-22
+
+  parasail: parasail/2.0.4
+
+  paraview: paraview/5.2, paraview/5.8.1
+
+  passcal: passcal/2012.299
+
+  patchelf: patchelf/0.10
+    Utility to modify the dynamic linker and RPATH of ELF executables/libraries.
+
+  pcre: pcre/8.37
+
+  pdal: pdal/2.1.0
+    PDAL is Point Data Abstraction Library. It is a C/C++ open source library and applications for translating and processing point cloud data. It
+    is not limited to LiDAR data, although the focus and impetus for many of the tools in the library have their origins in LiDAR.
+
+  pdfcrop: pdfcrop/1.38
+
+  peddy: peddy/0.4.3
+
+  perl: perl/5.28.1, perl/5.30.1
+
+  petsc: petsc/3.11.3-py2, petsc/3.11.3-py3, petsc/3.11.3, petsc/3.12.4
+
+  pfamscan: pfamscan/1.6
+
+  pgdspider: pgdspider/2.1.1.2
+
+  pgi: pgi/16.5, pgi/18.4, pgi/18.10, pgi/19.4
+
+  phenix: phenix/1.17
+
+  php: php/7.1
+
+  phylip: phylip/3.697
+
+  phylosnp: phylosnp/2018-12-21
+
+  picard: picard/2.18.11
+
+  pigz: pigz/2.3.4
+
+  piranha: piranha/1.2.1
+
+  pixman: pixman/0.34.0
+
+  plink: plink/1.07, plink/1.90b6.4, plink/2.00a1LM, plink/2.00a2.3, plink/2.0
+
+  plinkseq: plinkseq/0.10
+
+  plumed: plumed/2.4.3, plumed/2.5.3
+
+  postgap: postgap/2020-05-11-git0453c91
+    automatically finemap and highlight the causal variants behind GWAS results by cross-examining GWAS, population genetic, epigenetic and
+    cis-regulatory datasets.
+
+  postgis: postgis/2.5.1, postgis/3.0.0
+
+  postgresql: postgresql/11.1, postgresql/12.3
+
+  povray: povray/3.7
+
+  praat: praat/6.0.43
+
+  preseq: preseq/2.0
+
+  prodigal: prodigal/2.6.3
+    Fast, reliable protein-coding gene prediction for prokaryotic genomes.
+
+  proj: proj/6.3.2
+    PROJ is a generic coordinate transformation software that transforms geospatial coordinates from one coordinate reference system (CRS) to
+    another.
+
+  proj4: proj4/5.1.0
+
+  protobuf: protobuf/3.6.1
+
+  prsice: prsice/2.1.4
+
+  pycuda: pycuda/2019.1
+    PyCUDA provides easy, Pythonic access to Nvidia's CUDA parallel computation API.
+
+  pygenometracks: pygenometracks/2.1
+
+  pymatgen: pymatgen/2020.3.13
+    Pymatgen (Python Materials Genomics) is a robust, open-source Python library for materials analysis.
+
+  pymol: pymol/2.2.0
+
+  pymultinest: pymultinest/3.10
+
+  pypar: pypar/2.0
+    PyPar is a python library that provides efficient and scalable parallelism using the message passing interface (MPI) to handle big data and
+    highly computational problems.
+
+  pyspice: pyspice/1.3.2
+    PySpice is a Python (3.6 only) interface to the Ngspice circuit simulator.
+
+  python: python/redirect
+
+  python2: python2/2.7.16
+
+  python2-intel: python2-intel/2019.4.088, python2-intel/2019.5.098
+
+  python3: python3/3.6.5, python3/3.6.9, python3/3.6.10, python3/3.7.3, python3/3.7.5, python3/3.7.7, python3/3.8.3
+    A general purpose, interpreted programming language.
+
+  python3-intel: python3-intel/2019.4.088, python3-intel/2019.5.098, python3-intel/2020.0.014, python3-intel/2020.1.893, python3-intel/2020.2.902
+
+  pytorch: pytorch/1.0, pytorch/1.1, pytorch/1.3, pytorch/1.5, pytorch/1.5.1, pytorch/1.6.0
+
+  qctool: qctool/1.4, qctool/2.0.1
+
+  qgis: qgis/3.4.2, qgis/3.10.8
+    Open source geographic information system
+
+  qiime: qiime/1.9.1
+
+  qiime2: qiime2/2018.4, qiime2/2020.2
+
+  qt: qt/5.11.2, qt/5.12.8
+
+  qt4: qt4/4.8.4, qt4/4.8.7
+
+  quantlib: quantlib/1.16
+    The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
+
+  quantumespresso: quantumespresso/6.3.1, quantumespresso/6.4.1-elpa-intel, quantumespresso/6.4.1-elpa-omp, quantumespresso/6.4.1-elpa, ...
+
+  quartus_pro: quartus_pro/18.1, quartus_pro/19.4
+    The revolutionary Intel(R Quartus(R Prime Design Software includes everything you need to design for Intel(R FPGAs, SoCs, and complex
+    programmable logic device (CPLD from design entry and synthesis to optimization, verification, and simulation.
+
+  qupath: qupath/0.1.2, qupath/0.2.2
+
+  quspin: quspin/0.3.3, quspin/0.3.4
+    QuSpin is an open-source Python package for exact diagonalization and quantum dynamics of arbitrary boson, fermion and spin many-body systems,
+    supporting the use of various (user-defined) symmetries in one and higher dimensional lattice systems and (imaginary) time evolution following a
+    user-specified driving protocol.
+
+  qwt: qwt/6.1.3
+
+  randfold: randfold/2.0.1
+
+  raptor: raptor/2.0.15
+
+  raremetal: raremetal/4.13.7
+
+  raremetal2: raremetal2/2018-12-11
+
+  rasqal: rasqal/0.9.33
+
+  raxml: raxml/8.2.9
+
+  rclone: rclone/1.50.2
+    Rclone is a command line program to sync files and directories.
+
+  rdkit: rdkit/2020_03_3
+    RDKit is a collection of cheminformatics and machine-learning software written in C++ and Python.
+
+  readline: readline/7.0
+
+  recon: recon/1.08
+
+  redland: redland/1.0.17
+
+  redland_binding: redland_binding/1.0.17.1
+
+  relion: relion/3.0.7-gpu, relion/3.0.7
+
+  repeatmasker: repeatmasker/4.0.7, repeatmasker/4.0.9-p2, repeatmasker/4.1.0
+
+  repeatmodeler: repeatmodeler/1.0.11, repeatmodeler/2.0.1
+
+  repeatscout: repeatscout/1.0.6
+
+  resmap: resmap/1.1.4
+    ResMap (Resolution Map) is a Python (NumPy/SciPy) application with a Tkinter GUI. It is an easy to use software package for computing the local
+    resolution of 3D density maps studied in structural biology, primarily electron cryo-microscopy (cryo-EM).
+
+  rfmix: rfmix/1.5.4
+    RFMix implements a fast discriminative approach to modeling ancestry along an admixed chromosome given observed haplotype sequences of known or
+    inferred ancestry.
+
+  rmblast: rmblast/2.9.0-p2
+
+  rocksdb: rocksdb/6.2.2
+    A library that provides an embeddable, persistent key-value store for fast storage.
+
+  root: root/5.34.36, root/6.16.00, root/6.22.00
+
+  rosetta: rosetta/3.11
+    Algorithms for computational modeling and analysis of protein structures.
+
+  rpy2: rpy2/2.9.2
+
+  rsem: rsem/1.3.1
+
+  rseqc: rseqc/3.0.0
+
+  rstan: rstan/2.18.2
+
+  rstudio: rstudio/1.1.463, rstudio/1.2.1335, rstudio/1.3.959
+
+  ruby: ruby/2.7.2
+    A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and
+    easy to write.
+
+  rust: rust/1.32.0
+
+  ruth: ruth/git778d784
+
+  rvtests: rvtests/2.1.0
+
+  sagemath: sagemath/9.0
+    A free open-source mathematics software system licensed under the GPL.
+
+  saige: saige/0.35.8.8, saige/0.36.6, saige/0.39
+
+  salmon: salmon/0.12.0, salmon/1.1.0
+
+  salmonte: salmonte/0.4
+
+  sambamba: sambamba/0.6.7
+
+  samblaster: samblaster/0.1.24
+
+  samtools: samtools/0.1.19, samtools/1.8, samtools/1.9, samtools/1.10
+
+  sas: sas/9.3, sas/9.4
+
+  sbt: sbt/0.13.12
+
+  scala: scala/2.12.0, scala/2.13.2
+    scalable fast object-oriented general-purpose language with full support for functional programming
+
+  scalapack: scalapack/2.0.2_gcc-8.1_openmpi-3.1.4
+    A library of high-performance linear algebra routines for parallel distributed memory machines.
+
+  scons: scons/2.5.1
+
+  sdp_toolkit: sdp_toolkit/5.2.20
+
+  sdpb: sdpb/1.0
+
+  seadas: seadas/7.5.3
+
+  seqprep: seqprep/1.2
+
+  seqsimla: seqsimla/2.9.1
+
+  seqtk: seqtk/1.2-r101c, seqtk/1.3
+
+  shapeit: shapeit/v2-r904, shapeit/4.1.3
+    Segmented HAPlotype Estimation and Imputation Tool (SHAPEIT.
+
+  sicer: sicer/1.1
+
+  sickle: sickle/1.33
+
+  sirius: sirius/4.0.1
+
+  slepc: slepc/3.11.2
+
+  slicer: slicer/4.8.1
+
+  smrtsv2: smrtsv2/2.0.2
+    SMRT-SV calls structural variants (SVs) using long reads (PacBio RS II or Sequel). The input is an FOFN file that lists each input file (BAX H5
+    or BAM) and a genome reference. Reads are aligned to the reference and local assemblies are done in kilobase-scale overlapping windows across
+    the genome. Assemblies are aligned back to the reference, and structural variants are called from them.
+
+  snakeviz: snakeviz/2.0.1
+    SnakeViz is a viewer for Python profiling data that runs as a web application in your browser.
+
+  sniper: sniper/7.2
+    Sniper is a next generation parallel, high-speed and accurate x86 simulator.
+
+  snpeff: snpeff/4.3q
+
+  snphylo: snphylo/2016-02-04
+
+  snzip: snzip/1.0.4
+    Snzip is a command line tool for the snappy compression format.
+
+  solar: solar/7.6.4
+
+  solar-eclipse: solar-eclipse/8.4.2
+
+  spades: spades/3.6.1, spades/3.13.1
+
+  spark: spark/2.3.0, spark/2.4.3
+
+  spicetoolkit: spicetoolkit/N0066
+
+  spm: spm/5, spm/8, spm/12b, spm/12
+
+  sqldeveloper: sqldeveloper/19.1.0
+
+  sqlite3: sqlite3/3.25.3, sqlite3/3.31.1
+
+  sqlitebrowser: sqlitebrowser/3.10.1
+
+  squid: squid/1.9g
+
+  sratoolkit: sratoolkit/2.9.2, sratoolkit/2.10.5
+    Toolkit for reading, writing, and manipulating SRA files
+
+  srna-workbench: srna-workbench/4.5
+
+  sst-macro: sst-macro/9.1.0
+
+  stacks: stacks/2.2, stacks/2.41
+
+  star: star/2.6.0c, star/2.7.1a
+
+  star-ccm: star-ccm/13.06.012, star-ccm/2019.1
+
+  stata: stata/12, stata/15, stata/16
+    General Purpose Statistical Package
+
+  stata-mp: stata-mp/15, stata-mp/16
+
+  stata-se: stata-se/15, stata-se/16
+
+  strelka: strelka/2.9.10
+
+  stringtie: stringtie/1.3.3
+
+  sublime: sublime/3134
+
+  subread: subread/1.6.2
+
+  suitesparse: suitesparse/5.4.0, suitesparse/5.7.1
+    A suite of sparse matrix algorithms.
+
+  surfice: surfice/v2.1.45-1
+
+  svn: svn/1.11.0
+
+  swig: swig/3.0.12, swig/4.0.2
+
+  systemc: systemc/2.3.3
+    SystemC is a set of C++ classes and macros which provide an event-driven simulation interface.
+
+  szip: szip/2.1.1
+
+  telebuilder: telebuilder/2020-07-31_git2473c02
+    Identify transposable element loci from repeat annotations.
+
+  telescope: telescope/1.0.3
+    Single locus resolution of Transposable ELEment expression.
+
+  tensorflow: tensorflow/1.12, tensorflow/1.13.1, tensorflow/1.15.0, tensorflow/2.0.0, tensorflow/2.1.0
+
+  tetoolkit: tetoolkit/2.0.3
+    A package for including transposable elements in differential enrichment analysis of sequencing datasets.
+
+  tetranscripts: tetranscripts/2.1.4
+    A package for including transposable elements in differential enrichment analysis of sequencing datasets.
+
+  texlive: texlive/2018
+
+  texworks: texworks/0.6.1
+    LaTeX GUI editor
+
+  theano: theano/1.0.2
+
+  tiff: tiff/4.0.6, tiff/4.0.9
+
+  tiledb: tiledb/2.0.6
+    TileDB is a powerful engine architected around multi-dimensional arrays that enables storing and accessing:Dense arrays (e.g., satellite
+    images);Sparse arrays (e.g., LiDAR, genomics);Dataframes (any data in tabular form);Key-values (mappings between keys and values);
+
+  timesat: timesat/3.3
+
+  tinker: tinker/7.1.2, tinker/8.7
+
+  tinyxml: tinyxml/2.6.2
+
+  tmux: tmux/2.8
+
+  tophat: tophat/2.1.1
+
+  torch: torch/2.1
+
+  totalview: totalview/2017.0, totalview/2019.3
+
+  transdecoder: transdecoder/3.0.0
+
+  transrate: transrate/1.0.3
+
+  trf: trf/4.0.9
+
+  trimgalore: trimgalore/0.4.4, trimgalore/0.5.0
+
+  trimmomatic: trimmomatic/0.36
+
+  trinity: trinity/2.8.4
+
+  trust: trust/3.0, trust/3.0.3
+
+  tsylb2: tsylb2/1.1
+    Syllabification software
+
+  twitterscraper: twitterscraper/2020-06-01_gitdb44c0
+    Scrape Twitter for Tweets
+
+  txt2tags: txt2tags/2.6
+
+  ucscutils: ucscutils/2018-11-27
+
+  udunits: udunits/2.2.26
+
+  umitools: umitools/1.0.0
+
+  unison: unison/2.51.2
+
+  unixodbc: unixodbc/2.3.7
+
+  unpack2proj: unpack2proj/1.0
+
+  unpack4scc: unpack4scc/0.1
+
+  usearch: usearch/8.1.1756
+
+  varscan: varscan/2.3.9
+
+  vcflib: vcflib/1.0.1
+
+  vcftools: vcftools/0.1.11, vcftools/0.1.16
+
+  velvet: velvet/1.2.10, velvet/1.2.10-149.omp.l.b
+
+  vep: vep/94.5
+
+  vesta: vesta/3.4.6
+
+  viennarna: viennarna/2.4.10
+
+  vim: vim/8.1, vim/8.1.1592
+
+  vlc: vlc/3.0.8
+    VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs,
+    and various streaming protocols.
+
+  vmd: vmd/1.9.1, vmd/1.9.3_opengl_cuda, vmd/1.9.3
+    Visual Molecular Dynamics (VMD)
+
+  voxbo: voxbo/1.8.5
+
+  vsearch: vsearch/2.8.1
+
+  vt: vt/2019-04-19_gitf6d2b5d
+
+  vtk: vtk/6.1.0, vtk/7.1.0, vtk/9.0.1
+
+  webp: webp/1.0.0, webp/1.1.0
+
+  wiggletools: wiggletools/v1.2.2
+
+  wkhtmltopdf: wkhtmltopdf/0.12.5
+    open source command line tools to render HTML into PDF and various image formats
+
+  wxwidgets: wxwidgets/3.0.4
+
+  xbeach: xbeach/5670
+    XBeach is a two-dimensional model for wave propagation, long waves and mean flow, sediment transport and morphological changes of the nearshore
+    area, beaches, dunes and backbarrier during storms.
+
+  xcrysden: xcrysden/1.5.60
+
+  xerces-c: xerces-c/3.2.2
+
+  xfoil: xfoil/6.99
+    XFOIL is an interactive program for the design and analysis of subsonic isolated airfoils.
+
+  xnat2proj: xnat2proj/v2.0
+    Upload DICOMs from BU CNC XNAT to BU SCC
+
+  xyce: xyce/6.12
+
+  yambo: yambo/3.4.1
+
+  yasm: yasm/1.3.0
+    Yasm is a complete rewrite of the NASM assembler under the new BSD License (some portions are under other licenses, see COPYING for details).
+
+  yaxil: yaxil/0.4.2
+    Yaxil is an XNAT interface library from harvar-nrg for downloading DICOMS and unpacking to BIDS with dcm2niix.
+
+  zlib: zlib/1.2.11
+
+  zstandard: zstandard/1.4.5, zstandard/2019-04-18
+    A fast lossless compression algorithm, targeting real-time compression scenarios at zlib-level and better compression ratios.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+To learn more about a package execute:
+
+   $ module spider Foo
+
+where "Foo" is the name of a module.
+
+To find detailed information about a particular package you
+must specify the version if there is more than one version:
+
+   $ module spider Foo/11.1
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+

@@ -1,5 +1,9 @@
 # Project3 - Replicate SincNet Results
 
+[SincNet repo](https://github.com/huda-irs/Project3/blob/main/SincNet.png)
+
+DISCLAIMER: I do not take credit for the repositorty and the image above that describes the porject. This is not my creation. The purpose of this repoistory was to recreate its results and understand the CNN portion of the repoisotry. All credit is given the the orginal owners of the repository which can be found at [mravanelli/SincNet](https://github.com/mravanelli/SincNet)
+
 # Reason
 This Project recreated results from the [SincNet repo](https://github.com/mravanelli/SincNet). The SincNet repo was executed for its unique technique for training the machine to filter out data. Although SincNet is a full network, a CNN model that feeds into a DNN model and then feeds into another DNN model that classifies the speaker, the focus on this project the is CNN portion of the repository.
 
@@ -11,6 +15,8 @@ SincNet uses CNN to filter out a signal efficiently. The SincNet model takes the
 These segments are then fed into the CNN network in batches. This is important becuase the intentional choice of training the machine with large batches is important becuase large batch sizes makes training efficient in time and assists in overcoming the issue of overfitting the model. THe batch normalization layer is only possible for large batch sizes and greatly impacts the performace of the machine for the reasons mentioned for the large batch sizes.
 
 ![batch layer normalization](https://github.com/huda-irs/Project3/blob/main/batch_normalization.jpeg)
+
+SincNet's CNN portions has each batch pass through the SincConv_fast class once and then loops that output into the same 1D convolutionational neural network as SincNet twice. The difference between the 1D convolutional network and the 1D convolutional neutral network from the SincConv_fast class are the filter lengths, number of filters, and input. The SincConv_fast class first processes the segmented signal batches proved and then provides the processed data into the DNN network. 
 
 # How is it efficient
 

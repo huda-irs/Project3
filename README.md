@@ -11,10 +11,12 @@ This Project recreated results from the [SincNet repo](https://github.com/mravan
 SincNet uses CNN to filter out a signal efficiently. The SincNet model takes the signal and segments using the sliding window technique. Taking 200 samples per segments and the difference between on segment and the consecutive segment is the 5 samples that are slid over for the next window. 
 
 ![sliding window segmentation](https://github.com/huda-irs/Project3/blob/main/sliding_window.png)
+Figure: Visual as to how the data is segmented into parts. The image can be found the source [here](https://stackoverflow.com/questions/55874826/feature-extraction-for-keyword-spotting-on-long-form-audio-using-a-cnn)
 
 These segments are then fed into the CNN network in batches. This is important becuase the intentional choice of training the machine with large batches is important becuase large batch sizes makes training efficient in time and assists in overcoming the issue of overfitting the model. THe batch normalization layer is only possible for large batch sizes and greatly impacts the performace of the machine for the reasons mentioned for the large batch sizes.
 
 ![batch layer normalization](https://github.com/huda-irs/Project3/blob/main/batch_normalization.jpeg)
+FigureL Visual for batch normalization layer. From the image shown, it makes sense as for the use of large batch sizes. The batch normalization larger would not be as effective with small batch sizes. The trade off that is faced with large batche sizes is good performance (larger batch size) and memory space (reason we can't have extremely unreasonable size for batch sizes). The image above can be found by its source [here](https://medium.com/deep-learning-g/batch-normalization-af993b5d58b1)
 
 SincNet's CNN portions has each batch pass through the SincConv_fast class once and then loops that output into the same 1D convolutionational neural network as SincNet twice. The difference between the 1D convolutional network and the 1D convolutional neutral network from the SincConv_fast class are the filter lengths, number of filters, and input. The SincConv_fast class first processes the segmented signal batches proved and then provides the processed data into the DNN network. 
 

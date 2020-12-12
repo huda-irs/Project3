@@ -4,7 +4,13 @@
 This Project recreated results from the [SincNet repo](https://github.com/mravanelli/SincNet). The SincNet repo was executed for its unique technique for training the machine to filter out data. Although SincNet is a full network, a CNN model that feeds into a DNN model and then feeds into another DNN model that classifies the speaker, the focus on this project the is CNN portion of the repository.
 
 # How SincNet CNN works
-SincNet uses CNN to filter out a signal efficiently. The SincNet model 
+SincNet uses CNN to filter out a signal efficiently. The SincNet model takes the signal and segments using the sliding window technique. Taking 200 samples per segments and the difference between on segment and the consecutive segment is the 5 samples that are slid over for the next window. 
+
+![sliding window segmentation]()
+
+These segments are then fed into the CNN network in batches. This is important becuase the intentional choice of training the machine with large batches is important becuase large batch sizes makes training efficient in time and assists in overcoming the issue of overfitting the model. THe batch normalization layer is only possible for large batch sizes and greatly impacts the performace of the machine for the reasons mentioned for the large batch sizes.
+
+![batch layer normalization]()
 
 # How is it efficient
 

@@ -1,7 +1,7 @@
 # Project3 - Replicate SincNet Results
 
 # Reason
-This Project recreated results from the [SincNet repo](https://github.com/mravanelli/SincNet). The SincNet repo was executed for its unique technique for training the machine to filter out data. 
+This Project recreated results from the [SincNet repo](https://github.com/mravanelli/SincNet). The SincNet repo was executed for its unique technique for training the machine to filter out data. Although SincNet is a full network, a CNN model that feeds into a DNN model and then feeds into another DNN model that classifies the speaker, the focus on this project the is CNN portion of the repository.
 
 # How SincNet CNN works
 SincNet uses CNN to filter out a signal efficiently. The SincNet model 

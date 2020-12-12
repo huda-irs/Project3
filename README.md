@@ -6,11 +6,11 @@ This Project recreated results from the [SincNet repo](https://github.com/mravan
 # How SincNet CNN works
 SincNet uses CNN to filter out a signal efficiently. The SincNet model takes the signal and segments using the sliding window technique. Taking 200 samples per segments and the difference between on segment and the consecutive segment is the 5 samples that are slid over for the next window. 
 
-![sliding window segmentation]()
+![sliding window segmentation](https://github.com/huda-irs/Project3/blob/main/sliding_window.png)
 
 These segments are then fed into the CNN network in batches. This is important becuase the intentional choice of training the machine with large batches is important becuase large batch sizes makes training efficient in time and assists in overcoming the issue of overfitting the model. THe batch normalization layer is only possible for large batch sizes and greatly impacts the performace of the machine for the reasons mentioned for the large batch sizes.
 
-![batch layer normalization]()
+![batch layer normalization](https://github.com/huda-irs/Project3/blob/main/batch_normalization.jpeg)
 
 # How is it efficient
 
